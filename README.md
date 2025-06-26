@@ -1,14 +1,14 @@
 # Hi, I'm Paul Cruse III 👋
 
 **Software Developer Architect**  
-Proficient in JavaScript, Node.js, TypeScript, Python, AWS, GCP, Kubernetes, Serverless, MongoDB, MySQL, Postgres, Neo4j, and currently learning Rust.
+Proficient in creating API-based, cloud-hosted, scalable fullstack web applications.
 
 ---
 
 ## 🚀 About Me
 
 - Architecting and building scalable cloud-native solutions.
-- Experienced in both backend and infrastructure development.
+- Experienced in fronted, backend and infrastructure development.
 - Passionate about open-source and developer tooling.
 - Always learning and exploring new technologies.
 
@@ -16,9 +16,9 @@ Proficient in JavaScript, Node.js, TypeScript, Python, AWS, GCP, Kubernetes, Ser
 
 - **Languages:** JavaScript, TypeScript, Node.js, Python, Rust (learning)
 - **Cloud:** AWS, GCP
-- **Database:** MongoDB, MySQL, Postgres, Neo4j
+- **Database:** MongoDB, MySQL, Postgres, Neo4j, DynamoDB
 - **Orchestration:** Kubernetes, Serverless
-- **Other:** API design, Automation, DevOps
+- **Other:** API design, Event Based Architecture, Automation, DevOps
 
 ## 🌟 Projects I'm Proud Of
 
