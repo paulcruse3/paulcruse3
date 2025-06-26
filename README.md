@@ -17,7 +17,7 @@ Proficient in creating API-based, cloud-native, scalable fullstack web applicati
 - **Languages:** JavaScript, TypeScript, Node.js, Python, PHP (HHVM), Rust (learning)
 - **Frameworks:** React, Angular, Express, TSOA, FastAPI, Django, Chilo, Acai
 - **Infrastructure as Code:** AWS CDK, AWS Cloudformation, Serverless Framework, Terraform, Ansible & Helm
-- **Protocals:** REST, GraphQL, GRPC
+- **Protocols:** REST, GraphQL, GRPC
 - **Cloud:** AWS, GCP, Azure
 - **Database:** MongoDB, MySQL, Postgres, Neo4j, DynamoDB, Redis, Cassandra, Memcache
 - **Orchestration:** Kubernetes, Serverless
