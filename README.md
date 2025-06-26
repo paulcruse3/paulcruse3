@@ -1,7 +1,7 @@
 # Hi, I'm Paul Cruse III 👋
 
 **Software Developer Architect**  
-Proficient in creating API-based, cloud-hosted, scalable fullstack web applications.
+Proficient in creating API-based, cloud-native, scalable fullstack web applications.
 
 ---
 
@@ -14,11 +14,14 @@ Proficient in creating API-based, cloud-hosted, scalable fullstack web applicati
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Node.js, Python, Rust (learning)
-- **Cloud:** AWS, GCP
-- **Database:** MongoDB, MySQL, Postgres, Neo4j, DynamoDB
+- **Languages:** JavaScript, TypeScript, Node.js, Python, PHP (HHVM), Rust (learning)
+- **Frameworks:** React, Angular, Express, TSOA, FastAPI, Django, Chilo, Acai
+- **Infrastructure as Code:** AWS CDK, AWS Cloudformation, Serverless Framework, Terraform, Ansible & Helm
+- **Protocals:** REST, GraphQL, GRPC
+- **Cloud:** AWS, GCP, Azure
+- **Database:** MongoDB, MySQL, Postgres, Neo4j, DynamoDB, Redis, Cassandra, Memcache
 - **Orchestration:** Kubernetes, Serverless
-- **Other:** API design, Event Based Architecture, Automation, DevOps
+- **Specialities:** API Design, Event Based Architecture, Highly Volume Systems, DevOps
 
 ## 🌟 Projects I'm Proud Of
 
